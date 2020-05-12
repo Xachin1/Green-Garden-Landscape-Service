@@ -1,2 +1,2 @@
 # Green-Garden-Landscape-Service
-website 
+we are making the website for GGLC
